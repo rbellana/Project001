@@ -1,4 +1,7 @@
-#This is developed in feature 
+#Linear Regression App with Streamlit UI Code
+# The code snippet below is the Streamlit UI code for the Linear Regression app. This code will be saved in a file named src/app_LinearRegression.py.
+# Save the following code in the src/app_LinearRegression.py file:
+
 
 import streamlit as st
 import numpy as np
